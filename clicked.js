@@ -1,0 +1,3 @@
+function clicked() {
+    alert('¡Hola!');
+}
